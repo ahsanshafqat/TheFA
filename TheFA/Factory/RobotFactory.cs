@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Linq;
-using TheFA.Core.Enums;
 using TheFA.Core.Model;
 
 namespace TheFA.Core.Factory

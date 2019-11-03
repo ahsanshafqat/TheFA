@@ -1,4 +1,4 @@
-﻿namespace TheFA.Core.Enums
+﻿namespace TheFA.Core.Model
 {
     public enum Direction
     {

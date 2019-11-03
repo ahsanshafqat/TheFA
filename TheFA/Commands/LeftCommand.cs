@@ -1,5 +1,4 @@
-﻿using TheFA.Core.Enums;
-using TheFA.Core.Model;
+﻿using TheFA.Core.Model;
 
 namespace TheFA.Core.Commands
 {

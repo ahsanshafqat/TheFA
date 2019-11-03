@@ -1,6 +1,4 @@
-﻿using TheFA.Core.Enums;
-
-namespace TheFA.Core.Model
+﻿namespace TheFA.Core.Model
 {
     public class Move
     {

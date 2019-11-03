@@ -1,5 +1,4 @@
 ﻿using System.Linq;
-using TheFA.Core.Enums;
 using TheFA.Core.Exceptions;
 using TheFA.Core.Model;
 

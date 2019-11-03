@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.ComponentModel.Design;
 using TheFA.Core.Commands;
-using TheFA.Core.Enums;
 
 namespace TheFA.Core.Model
 {
